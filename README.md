@@ -2,6 +2,22 @@
 
 基于参考视频制作的竖屏网页游戏，使用原生 HTML、CSS、JavaScript、Canvas 和 SVG，无构建步骤。
 
+## 在线试玩
+
+### [▶ 点击开始 · i-dle 萌跑](https://jdb156158.github.io/idleruncool/)
+
+五只萌宠，三条跑道，带上好运气，向 Neverland 出发！手机滑动操作，电脑方向键开跑。
+
+## 游戏快照
+
+**点击任意快照，直接进入游戏。**
+
+| 弯道冲刺 · 下一枚金币就在前面 | 城市冒险 · 小心迎面而来的巴士 |
+| :---: | :---: |
+| [![左右弯道与萌宠冲刺](docs/curves-preview.jpg)](https://jdb156158.github.io/idleruncool/) | [![城市跑酷、金币和巴士](docs/preview.jpg)](https://jdb156158.github.io/idleruncool/) |
+
+跑累了？去衣柜换个造型，抓一只娃娃，或者挑战记忆翻牌，把金币和快乐一起带走 ♡
+
 ## 运行
 
 ```sh
